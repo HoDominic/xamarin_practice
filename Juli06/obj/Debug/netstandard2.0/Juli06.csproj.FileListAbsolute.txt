@@ -1,0 +1,17 @@
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\bin\Debug\netstandard2.0\Juli06.deps.json
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\bin\Debug\netstandard2.0\Juli06.dll
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\bin\Debug\netstandard2.0\ref\Juli06.dll
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\bin\Debug\netstandard2.0\Juli06.pdb
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\obj\Debug\netstandard2.0\Views\SingleCardPage.xaml.g.cs
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\obj\Debug\netstandard2.0\Views\TrelloCardsPage.xaml.g.cs
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\obj\Debug\netstandard2.0\Views\TrelloListsPage.xaml.g.cs
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\obj\Debug\netstandard2.0\Juli06.AssemblyInfoInputs.cache
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\obj\Debug\netstandard2.0\Juli06.AssemblyInfo.cs
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\obj\Debug\netstandard2.0\Juli06.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\obj\Debug\netstandard2.0\Juli06.dll
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\obj\Debug\netstandard2.0\ref\Juli06.dll
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\obj\Debug\netstandard2.0\Juli06.pdb
+C:\Users\domin\Desktop\MCT2\device_programming\oefenen_juli\oefenen_trello\Juli06\Juli06\obj\Debug\netstandard2.0\Juli06.csprojAssemblyReference.cache
